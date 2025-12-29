@@ -44,8 +44,9 @@ javac *.java
 java Main
 
 D. Screenshots
+<img width="827" height="644" alt="image" src="https://github.com/user-attachments/assets/14792df5-3f85-4375-97e8-6c301dfef07a" />
 
-![Снимок экрана 2025-12-29 212945.png](../../OneDrive/Pictures/Screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-12-29%20212945.png)
+
 
 E. Reflection
 
